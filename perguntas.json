@@ -1,74 +1,74 @@
 [
   {
     "nivel": "Fácil",
-    "enunciado": "O que significa a sigla IA?",
+    "enunciado": "Qual o verdadeiro significado de IA no mundo do brainrot?",
     "alternativas": [
-      "Internet Avançada",
-      "Inteligência Artificial",
-      "Informação Automática",
-      "Interface Adaptável"
+      "Internet Avassaladora que cobra Fanum Tax",
+      "Inteligência Artificial (bagulho que tem mais Rizz que você)",
+      "Informação Automática pra farmar Aura no TikTok",
+      "Interface Adaptável do Skibidi Toilet"
     ],
     "correta": 1,
-    "explicacao": "IA significa Inteligência Artificial."
+    "explicacao": "IA é Inteligência Artificial! Se errou essa, você perdeu -1000 de Aura e foi de F."
   },
   {
     "nivel": "Fácil",
-    "enunciado": "Qual exemplo utiliza inteligência artificial?",
+    "enunciado": "Qual desses tem o Rizz Supremo e tá usando IA de verdade?",
     "alternativas": [
-      "Um assistente virtual que reconhece voz",
-      "Uma régua de plástico",
-      "Um caderno sem componentes eletrônicos",
-      "Uma lâmpada comum sem sensores"
+      "Assistente de voz que te responde no puro Rizz e entende sua fala",
+      "Régua de plástico 100% NPC sem nenhuma Aura",
+      "Caderno de papel que não faz nem Mewing",
+      "Lâmpada desligada no canto no modo depressão"
     ],
     "correta": 0,
-    "explicacao": "O reconhecimento de voz é uma aplicação de IA."
+    "explicacao": "Reconhecer voz é tecnologia com Rizz concentrado. As outras opções são totalmente NPC."
   },
   {
     "nivel": "Médio",
-    "enunciado": "Por que os dados são importantes para muitos sistemas de IA?",
+    "enunciado": "Por que a IA precisa do combo de dados pra não tomar um L gigante?",
     "alternativas": [
-      "Porque substituem totalmente os programas",
-      "Porque ajudam o sistema a identificar padrões",
-      "Porque eliminam a necessidade de computadores",
-      "Porque impedem qualquer erro"
+      "Pra deletar os devs Sigma do mapa",
+      "Pra reconhecer os padrões do sistema e fazer o Mewing perfeito",
+      "Pra explodir o computador e virar sucata",
+      "Pra garantir 0 erros no universo inteiro"
     ],
     "correta": 1,
-    "explicacao": "Muitos modelos aprendem padrões a partir de dados."
+    "explicacao": "A IA aprende os padrões através dos dados. Sem treino de dados, sem Aura!"
   },
   {
     "nivel": "Médio",
-    "enunciado": "Qual atitude é mais adequada ao usar uma resposta gerada por IA?",
+    "enunciado": "Qual a atitude mais Gigachad quando a IA te manda a resposta?",
     "alternativas": [
-      "Publicar imediatamente sem ler",
-      "Considerar toda resposta sempre verdadeira",
-      "Verificar as informações em fontes confiáveis",
-      "Ocultar que a IA foi utilizada em qualquer situação"
+      "Copiar e colar sem ler e perder 9999 de Aura na hora",
+      "Acreditar em tudo como um NPC sem cérebro",
+      "Checar as fontes confiáveis pra manter o nível Sigma Supremo",
+      "Fingir no grupo que o cérebro foi seu"
     ],
     "correta": 2,
-    "explicacao": "Respostas de IA podem conter erros e devem ser verificadas."
+    "explicacao": "A IA pode alucinar e mandar informação fake. Checar os fatos é coisa de Gigachad!"
   },
   {
     "nivel": "Difícil",
-    "enunciado": "O que é viés em um sistema de inteligência artificial?",
+    "enunciado": "O que é o tal do 'viés' na IA que destrói a Aura do sistema?",
     "alternativas": [
-      "Uma tendência que pode produzir resultados injustos ou distorcidos",
-      "Um recurso usado apenas para aumentar a velocidade da internet",
-      "Uma proteção física instalada no computador",
-      "Um tipo de arquivo de imagem"
+      "Um preconceito nos dados que faz a máquina mandar uma resposta injusta e tomar um L",
+      "Um booster de Wi-Fi pra ver live do Kai Cenat em 4K",
+      "A capinha RGB do PC gamer",
+      "Um sticker aleatório de WhatsApp"
     ],
     "correta": 0,
-    "explicacao": "O viés pode surgir nos dados, no desenvolvimento ou no uso do sistema."
+    "explicacao": "Viés é quando a IA aprende com dados tortos ou preconceituosos, gerando resultados injustos."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "Qual princípio contribui para o uso responsável da IA?",
+    "enunciado": "Como usar a IA com a maior Aura Responsável da história?",
     "alternativas": [
-      "Coletar qualquer dado sem autorização",
-      "Ignorar impactos sobre as pessoas",
-      "Usar transparência, privacidade e supervisão humana",
-      "Permitir que a máquina tome todas as decisões sem revisão"
+      "Hackear os dados da galera sem pedir licença",
+      "Tocar o caos na sociedade e focar no brainrot total",
+      "Lançar transparência, privacidade e supervisão humana no modo Chad",
+      "Entregar sua vida pra máquina enquanto você só faz Mewing"
     ],
     "correta": 2,
-    "explicacao": "O uso responsável envolve transparência, proteção de dados e supervisão humana."
+    "explicacao": "Transparência, proteção de dados e olhar humano são as regras de ouro pra manter o topo da Aura!"
   }
 ]
