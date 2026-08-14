@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #eef3f8;
+    color: #222;
+}
+
+.caixa-principal {
+    width: 90%;
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+h1 {
+    text-align: center;
+}
+
+.introducao,
+#progresso,
+#nivel,
+#mensagem {
+    text-align: center;
+}
+
+#nivel {
+    font-weight: bold;
+}
+
+#alternativas {
+    display: grid;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background: #2457a6;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #183d78;
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.correta {
+    background: #218739;
+}
+
+.incorreta {
+    background: #b52a37;
+}
+
+.oculto {
+    display: none;
+}
+
+#resultado {
+    text-align: center;
+}
