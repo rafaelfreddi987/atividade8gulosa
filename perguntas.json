@@ -1,0 +1,74 @@
+[
+  {
+    "nivel": "Fácil",
+    "enunciado": "O que significa a sigla IA?",
+    "alternativas": [
+      "Internet Avançada",
+      "Inteligência Artificial",
+      "Informação Automática",
+      "Interface Adaptável"
+    ],
+    "correta": 1,
+    "explicacao": "IA significa Inteligência Artificial."
+  },
+  {
+    "nivel": "Fácil",
+    "enunciado": "Qual exemplo utiliza inteligência artificial?",
+    "alternativas": [
+      "Um assistente virtual que reconhece voz",
+      "Uma régua de plástico",
+      "Um caderno sem componentes eletrônicos",
+      "Uma lâmpada comum sem sensores"
+    ],
+    "correta": 0,
+    "explicacao": "O reconhecimento de voz é uma aplicação de IA."
+  },
+  {
+    "nivel": "Médio",
+    "enunciado": "Por que os dados são importantes para muitos sistemas de IA?",
+    "alternativas": [
+      "Porque substituem totalmente os programas",
+      "Porque ajudam o sistema a identificar padrões",
+      "Porque eliminam a necessidade de computadores",
+      "Porque impedem qualquer erro"
+    ],
+    "correta": 1,
+    "explicacao": "Muitos modelos aprendem padrões a partir de dados."
+  },
+  {
+    "nivel": "Médio",
+    "enunciado": "Qual atitude é mais adequada ao usar uma resposta gerada por IA?",
+    "alternativas": [
+      "Publicar imediatamente sem ler",
+      "Considerar toda resposta sempre verdadeira",
+      "Verificar as informações em fontes confiáveis",
+      "Ocultar que a IA foi utilizada em qualquer situação"
+    ],
+    "correta": 2,
+    "explicacao": "Respostas de IA podem conter erros e devem ser verificadas."
+  },
+  {
+    "nivel": "Difícil",
+    "enunciado": "O que é viés em um sistema de inteligência artificial?",
+    "alternativas": [
+      "Uma tendência que pode produzir resultados injustos ou distorcidos",
+      "Um recurso usado apenas para aumentar a velocidade da internet",
+      "Uma proteção física instalada no computador",
+      "Um tipo de arquivo de imagem"
+    ],
+    "correta": 0,
+    "explicacao": "O viés pode surgir nos dados, no desenvolvimento ou no uso do sistema."
+  },
+  {
+    "nivel": "Difícil",
+    "enunciado": "Qual princípio contribui para o uso responsável da IA?",
+    "alternativas": [
+      "Coletar qualquer dado sem autorização",
+      "Ignorar impactos sobre as pessoas",
+      "Usar transparência, privacidade e supervisão humana",
+      "Permitir que a máquina tome todas as decisões sem revisão"
+    ],
+    "correta": 2,
+    "explicacao": "O uso responsável envolve transparência, proteção de dados e supervisão humana."
+  }
+]
